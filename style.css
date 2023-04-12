@@ -1,0 +1,12 @@
+body {
+  background-color: #aaffaa;
+}
+
+#container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border: thin solid black;
+  padding: 25px;
+}
